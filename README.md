@@ -1,8 +1,8 @@
 <h1>📄 About me</h1>
 <ul>
-  <li><b>I am a frontend developer</b></li>
-  <li><b>I love frontend</bi></li>
-  <li><b>My level is junior</b></li>
+  <li><b>😎 I am a frontend developer</b></li>
+  <li><b>❤️ I love frontend</bi></li>
+  <li><b>😁 My level is junior</b></li>
 </ul>
 <div>
   <h1>🛠 Skills</h1>
