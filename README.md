@@ -5,14 +5,8 @@
   <li><b>😁 My level is junior</b></li>
 </ul>
 <div>
-  <style>
-    .skills {
-    dispaly:flex;
-    gap:15px;
-  }
-  </style>
   <h1>🛠 Skills</h1>
-  <div class='slills'>
+  <div style="diplay:flex; gap:10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width='80' height='80' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width='80' height='80' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='80' height='80' />
