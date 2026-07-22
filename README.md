@@ -23,7 +23,6 @@
   <tr>
     <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" width="70" height="70" alt="React Router"/></td>
     <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="70" height="70" alt="Tailwind CSS"/></td>
-    <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="70" height="70" alt="Material UI"/></td>
     <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70" height="70" alt="Git"/></td>
     <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="70" height="70" alt="Webpack"/></td>
     <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="70" height="70" alt="Vite"/></td>
