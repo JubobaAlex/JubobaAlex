@@ -1,11 +1,4 @@
 <h1 align="center">👋 Привет, я Александр!</h1>
-
-<p align="center">
-  <b>😎 Frontend-разработчик</b> • 
-  <b>❤️ Влюблён в фронтенд</b> • 
-  <b>😁 Уровень: Junior</b>
-</p>
-
 <br/>
 
 <h2>🛠 Мой стек технологий</h2>
@@ -28,6 +21,7 @@
     <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="70" height="70" alt="Vite"/></td>
     <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="70" height="70" alt="Jest"/></td>
     <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="70" height="70" alt="Playwright"/></td>
+    <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" alt="NodeJS"/></td>
   </tr>
 </table>
 
