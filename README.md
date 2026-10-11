@@ -22,6 +22,7 @@
     <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="70" height="70" alt="Jest"/></td>
     <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="70" height="70" alt="Playwright"/></td>
     <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" alt="NodeJS"/></td>
+    <td align="center" style="border: none; background: transparent;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="70" height="70" alt="Figma"/></td>
   </tr>
 </table>
 
